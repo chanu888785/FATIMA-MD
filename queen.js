@@ -91,7 +91,7 @@ async function connectToWA() {
   const getPrefix = () => config.PREFIX;
   const getWelcome = () => config.WELCOME;
   //===========================
-  console.log("🔥 QUEEN ANJU XPRO is starting...");
+  console.log("🔥 FATIMA X MD is starting...");
   const { state, saveCreds } = await useMultiFileAuthState(
     __dirname + "/sessions/"
   );
@@ -170,7 +170,7 @@ async function connectToWA() {
           },
           externalAdReply: {
             title: "© 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ 💚",
-            body: " ©𝐌𝐑 𝐑𝐀𝐒𝐇𝐌𝐈𝐊𝐀 𝐎𝐅𝐂 💚",
+            body: " ©𝐌𝐑 𝐙𝐀 𝐍𝐎𝐎𝐑 𝐎𝐅𝐂 💚",
             mediaType: 1,
             sourceUrl: "https://github.com/Mrrashmika",
             thumbnailUrl:
